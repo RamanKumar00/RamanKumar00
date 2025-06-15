@@ -14,7 +14,7 @@
 <div align="center">
     🔭 I’m currently working on **Flutter** <br/>
     🌱 I’m currently learning **Dart, Python, Flutter** <br/>
-    💬 Ask me about **C, CPP, HTML, CSS, JavaScript, MySql... or anything [here](https://github.com/RamanKumar00/RamanKumar00/issues)** <br/>
+    💬 Ask me about **C, CPP, HTML, CSS, JavaScript, MySql.(https://github.com/RamanKumar00/RamanKumar00/issues)** <br/>
     ⚡ Fun fact **The Duckworth-Lewis method used in rain-affected cricket matches is actually an algorithm! It's a mix of math and coding logic used to calculate fair target scores. Algorithms aren't just for software! 😉** <br/>
 </div>
 
