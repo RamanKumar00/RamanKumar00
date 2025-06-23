@@ -12,10 +12,10 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on **Flutter** <br/>
-    🌱 I’m currently learning **Dart, Python, Flutter** <br/>
-    💬 Ask me about **C, CPP, HTML, CSS, JavaScript, MySql.(https://github.com/RamanKumar00/RamanKumar00/issues)** <br/>
-    ⚡ Fun fact **The Duckworth-Lewis method used in rain-affected cricket matches is actually an algorithm! It's a mix of math and coding logic used to calculate fair target scores. Algorithms aren't just for software! 😉** <br/>
+    🔭 I’m currently working on <strong>Flutter</strong> <br/>
+    🌱 I’m currently learning <strong>Dart, Python, Flutter</strong> <br/>
+    💬 Ask me about <strong>C, CPP, HTML, CSS, JavaScript, MySql.</strong> <br/>
+    ⚡ Fun fact <strong>The Duckworth-Lewis method used in rain-affected cricket matches is actually an algorithm! It's a mix of math and coding logic used to calculate fair target scores. Algorithms aren't just for software! 😉</strong> <br/>
 </div>
 
 <hr/>
@@ -51,8 +51,9 @@
     </div>
     <div style="display: flex; align-items: center;">
         <h2>Tools:</h2> 
-        <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode" style="margin-left: 10px;" />
+        <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode,selenium,python" style="margin-left: 10px;" />
     </div>
+    <p style="margin-left: 10px;"><strong>Also familiar with:</strong> BeautifulSoup, Playwright (used for Web Scraping)</p>
 </div>
 
 <br/>
@@ -61,12 +62,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=RamanKumar00&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Raman's Streak Stats"/>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=RamanKumar00&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Raman's GitHub Stats" />
-
-<br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanKumar00&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=RamanKumar00&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Raman's Streak Stats"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=RamanKumar00&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Raman's GitHub Stats" />
+    <br/>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanKumar00&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <br/><br/>
