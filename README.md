@@ -20,13 +20,13 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=��+Currently+working+on+Flutter;🌱+Learning+Dart%2C+Python%2C+Flutter;��+Ask+me+about+C%2C+CPP%2C+HTML%2C+CSS%2C+JavaScript%2C+MySql;⚡+Fun+fact%3A+Duckworth-Lewis+method+is+an+algorithm!" alt="About Me Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=🔭+Currently+working+on+Flutter;🌱+Learning+Dart+Python+Flutter;💬+Ask+me+about+C+CPP+HTML+CSS+JavaScript+MySql;⚡+Fun+fact:+Duckworth-Lewis+method+is+an+algorithm!" alt="" />
 </div>
 
 ---
 
 <!-- Social Links Section -->
-<h2 align="center">�� Connect with me</h2>
+<h2 align="center">🌐 Connect with me</h2>
 <div align="center">
   <a href="mailto:ramankr7321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -51,10 +51,10 @@
 ---
 
 <!-- Skills Section -->
-<h2 align="center">��️ Languages & Tools</h2>
+<h2 align="center">🛠️ Languages & Tools</h2>
 <div align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,python,html,css,javascript" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,python,html,css,javascript,nodejs" alt="Programming Languages" />
   <br/>
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode,selenium" alt="Tools & Platforms" />
@@ -91,4 +91,4 @@
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
+</div> 
