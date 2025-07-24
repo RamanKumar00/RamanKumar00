@@ -57,12 +57,13 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,python,html,css,javascript,nodejs" alt="Programming Languages" />
   <br/>
   <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode,selenium" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode,selenium,docker" alt="Tools & Platforms" />
 </div>
 
 <div align="center">
   <p><b>Also familiar with:</b> BeautifulSoup, Playwright (Web Scraping)</p>
 </div>
+
 
 ---
 
