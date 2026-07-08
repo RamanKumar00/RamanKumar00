@@ -106,12 +106,12 @@ Automated large-scale MCA portal data extraction.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=RamanKumar00&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00D9FF&fire=7000FF" alt="GitHub Streak Stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=RamanKumar00&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=7000FF" alt="GitHub Stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=RamanKumar00&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00D9FF&fire=7000FF" alt="GitHub Streak Stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=RamanKumar00&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=7000FF&cache_seconds=86400" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanKumar00&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanKumar00&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-readme-stats&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
