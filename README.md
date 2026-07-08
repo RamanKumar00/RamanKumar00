@@ -5,28 +5,127 @@
 
 <!-- Header Section -->
 <div align="center">
-  <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raman+Kumar!;" alt="Typing SVG" />
-  
-  <!-- Profile GIF/Avatar -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="wave" />
-  
-  <!-- Location and Flag -->
-  <h3 align="center">
-    A passionate software developer from India
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="25" alt="India Flag" />
-  </h3>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Raman+Kumar;Flutter+%26+Backend+Developer;Building+one+app+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7000FF&height=180&section=header&text=&fontSize=0" width="100%"/>
+
 </div>
 
-<!-- About Me Section -->
+### 👋 About Me
+
+- 🎓 Final-year **CSE student** at UIET, Chandigarh (Graduating 2027)
+- 💻 Currently interning at **LaFleur Tech** — building backend systems with Node.js, React Native & MongoDB
+- 🚀 I love turning ideas into shipped, working apps — not just prototypes
+- 🔍 Actively looking for **Flutter / Backend Developer** roles — open to opportunities!
+- 🏏 When I'm not coding: watching cricket, playing BGMI (big fan of **Jonathan @ TAG** 🔥)
+- 📫 Reach me at **ramankr7321@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=🔭+Currently+working+on+Flutter;🌱+Learning+Dart+Python+Flutter;💬+Ask+me+about+C+CPP+HTML+CSS+JavaScript+MySql;⚡+Fun+fact:+Duckworth-Lewis+method+is+an+algorithm!" alt="" />
+
+**Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,dart,python,javascript,html,css" />
+
+**Mobile & Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,react" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,postgres,supabase" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows" />
+
+**Deployment & Hosting**
+<br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+
+</div>
+
+<div align="center">
+  <sub><b>Also comfortable with:</b> Selenium & Playwright (web automation) · BLoC / Clean Architecture · JWT Auth · REST APIs</sub>
 </div>
 
 ---
 
-<!-- Social Links Section -->
-<h2 align="center">🌐 Connect with me</h2>
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**💬 Sampark — Chat App**
+Real-time chat app live on the Amazon AppStore.
+`Flutter` `Firebase` `BLoC` `Clean Architecture`
+
+</td>
+<td width="50%">
+
+**📉 Price Ninja — Price Tracker**
+Cross-platform price tracking app with a Python backend.
+`Flutter` `FastAPI`
+🔗 [github.com/RamanKumar00/Price_Tracker_Ninja](https://github.com/RamanKumar00/Price_Tracker_Ninja)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎪 Exhibition Management Platform**
+Multi-tenant platform with a 4-tier role system (Super Admin, Admin, Exhibitor, Visitor).
+`Flutter` `FastAPI` `Supabase` `PostgreSQL` `React`
+
+</td>
+<td width="50%">
+
+**🤖 Web Automation @ ScorpTech**
+Automated large-scale MCA portal data extraction.
+`Python` `Selenium` `Playwright`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📁 **More projects on my portfolio:** [ramankumar00.github.io](https://ramankumar00.github.io)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=RamanKumar00&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00D9FF&fire=7000FF" alt="GitHub Streak Stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=RamanKumar00&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=7000FF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanKumar00&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="750" src="https://github-readme-activity-graph.vercel.app/graph?username=RamanKumar00&theme=react-dark&bg_color=0D1117&color=00D9FF&line=7000FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RamanKumar00&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Profile Trophy" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
 <div align="center">
   <a href="mailto:ramankr7321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -37,59 +136,17 @@
   <a href="https://github.com/RamanKumar00" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://ramankumar00.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.instagram.com/.ramankumar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/channels/939438404251287582/939438404251287584" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://stackoverflow.com/users/28973253/raman-kumar?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </div>
 
----
-
-<!-- Skills Section -->
-<h2 align="center">🛠️ Languages & Tools</h2>
 <div align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,python,html,css,javascript,nodejs" alt="Programming Languages" />
-  <br/>
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode,selenium,docker" alt="Tools & Platforms" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,100:00D9FF&height=120&section=footer" width="100%"/>
 </div>
-
-<div align="center">
-  <p><b>Also familiar with:</b> BeautifulSoup, Playwright (Web Scraping)</p>
-</div>
-
-
----
-
-<!-- GitHub Stats Section -->
-<h2 align="center">⚡ GitHub Stats</h2>
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=RamanKumar00&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
-  
-  <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=RamanKumar00&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  
-  <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanKumar00&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
-</div>
-
----
-
-<!-- Additional Sections -->
-<div align="center">
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RamanKumar00&theme=dark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" />
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div> 
